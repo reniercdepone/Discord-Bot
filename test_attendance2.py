@@ -38,9 +38,9 @@ client = discord.Client(intents=intents)
 async def on_ready():
     print('Bot is ready')
     channel = client.get_channel(SIGN_IN_CHANNEL_ID)
-    channel2 = client.get_channel(ONSITE_CHANNEL_ID)
+    #channel2 = client.get_channel(ONSITE_CHANNEL_ID)
     await channel.send('Attendance bot is now online!')
-    await channel2.send('Attendance bot (onsite) is now online!')
+    #await channel2.send('Attendance bot (onsite) is now online!')
 
 # Event listener for when a message is received
 @client.event
