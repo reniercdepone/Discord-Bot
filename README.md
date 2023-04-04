@@ -2,6 +2,7 @@
 ## This Discord bot can handle user time in and time outs. 
 
 ### Notes
+MAIN program is test_attendance2.py
 The program is made and tested on a test server using test google service accounts.
 Also tested and ran locally on my computer. I haven't quite figured out how and where
 to host the bot on the cloud for 24/7 bot uptime.
