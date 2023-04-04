@@ -66,3 +66,9 @@ Make sure that the bot has the "Read Messages" and "Send Messages" permissions i
 -There may be issues with the API keys or authentication credentials for the Google Sheets API. Check that you 
 have set up the API keys correctly and that the bot has the necessary permissions to access the Google Sheets API.
 ```
+
+
+## sample test runs
+![Screenshot of a cmd running the bot](/test0.png)
+![Screenshot of a discord commands and bot response_1](/test1.png)
+![Screenshot of a discord commands and bot response_2](/test2.png)
