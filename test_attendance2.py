@@ -4,7 +4,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 
 # Constants
-DISCORD_TOKEN = 'MTA4NTc2MjMwNzk2OTI1MzQ1Ng.GKllUs.7fOChWnfRpxkSv3HKlrhyddrSLRr0dDQpGbnrE'
+DISCORD_TOKEN = ''
 GSPREAD_CREDS = 'google_sheet_credentials.json'
 GSPREAD_SHEET_NAME = 'attendance_sheet'
 SIGN_IN_CHANNEL_ID = 1085761773333913761
